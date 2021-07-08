@@ -70,9 +70,41 @@ body {
   line-height: 60px; /* Vertically center the text there */
 }
 
+.wrapper{
+    direction:rtl;
+    width:220px;
+    float:right;
+}
 
-.container{
-    height: 100px;
-    width: 250px;
-    
+.wrapper h2 {
+    direction: rtl;
+    float: right;
+}
+.wrapper .checkbox{
+    direction: rtl;
+    float: right;
+}
+
+.siginup {
+    direction: rtl;
+    float:right;
+}
+
+
+.column {
+    float: right;
+}
+
+<<<<<<< HEAD
+rtl{
+    direction: rtl;
+=======
+.right{
+    width: 21%;
+}
+
+.left {
+    width: 65%;
+    margin-right: 200PX;
+>>>>>>> 552ea48781745e7ba79c85e96c4af9e4ebef060d
 }

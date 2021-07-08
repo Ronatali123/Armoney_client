@@ -221,6 +221,11 @@ C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Home\Signup.cshtml.g.cs
+<<<<<<< HEAD
+=======
+C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Money\Index.cshtml.g.cs
+C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Money\ProgressBar.cshtml.g.cs
+>>>>>>> or
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -234,3 +239,7 @@ C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\ref\Armoney_client.dll
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Armoney_client.pdb
 C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Armoney_client.genruntimeconfig.cache
+C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Money\whereIsMyMoney.cshtml.g.cs
+C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Commercial\Index.cshtml.g.cs
+C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Commercial\suggestions.cshtml.g.cs
+C:\Users\msvs\Desktop\Or_client\Armoney_client\Armoney_client\Armoney_client\obj\Debug\net5.0\Razor\Views\Commercial\Lessons.cshtml.g.cs
