@@ -8,12 +8,22 @@
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
- 
-    <div class="container">
+
+    
+    <div class="column">
+        <div class="column right">
+            <partial  name="Login"/>
+        </div>
+        <div class="column left">
+            @RenderBody()
+        </div>
+    </div>
+
+    @*<div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
-    </div>
+    </div>*@
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
