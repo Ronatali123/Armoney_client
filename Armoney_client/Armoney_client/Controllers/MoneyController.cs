@@ -17,7 +17,7 @@ namespace Armoney_client.Controllers
             ViewBag.num = 10;
             return View();
         }
-        public IActionResult whereIsMyMoney()
+        public IActionResult WhereIsMyMoney()
         {
             ViewBag.place = "bank";
             ViewBag.money = 150;
