@@ -76,3 +76,7 @@ body {
     width: 250px;
     
 }
+
+rtl{
+    direction: rtl;
+}

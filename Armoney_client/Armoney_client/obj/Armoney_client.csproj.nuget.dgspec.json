@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msvs\\Downloads\\Armoney\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj": {}
+    "C:\\Users\\msvs\\Desktop\\Or_client\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msvs\\Downloads\\Armoney\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj": {
+    "C:\\Users\\msvs\\Desktop\\Or_client\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msvs\\Downloads\\Armoney\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj",
+        "projectUniqueName": "C:\\Users\\msvs\\Desktop\\Or_client\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj",
         "projectName": "Armoney_client",
-        "projectPath": "C:\\Users\\msvs\\Downloads\\Armoney\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj",
+        "projectPath": "C:\\Users\\msvs\\Desktop\\Or_client\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj",
         "packagesPath": "C:\\Users\\msvs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msvs\\Downloads\\Armoney\\Armoney_client\\Armoney_client\\Armoney_client\\obj\\",
+        "outputPath": "C:\\Users\\msvs\\Desktop\\Or_client\\Armoney_client\\Armoney_client\\Armoney_client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

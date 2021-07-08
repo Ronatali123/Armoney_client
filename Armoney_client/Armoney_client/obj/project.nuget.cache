@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6/MaiXYM4vsXYMQnt0ZYEoa3rIkZlEMxs5BLIOUjxh08CQtZnkojgIJWro1tILmlXnH6Bv1bDVa5RsavsCMNLw==",
+  "dgSpecHash": "Lq2OjNHoZt5EnYp0cpQ0v4xYXoOhQiYYKWxzvXCcue97q2buapfFhsxrw5Rac4xKiF3H7Hh5+/gWr6wEmAmuZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\msvs\\Downloads\\Armoney\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj",
+  "projectFilePath": "C:\\Users\\msvs\\Desktop\\Or_client\\Armoney_client\\Armoney_client\\Armoney_client\\Armoney_client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msvs\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\msvs\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
